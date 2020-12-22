@@ -1,5 +1,7 @@
+::todo -> hide password input
+
 @ECHO OFF
-cd "C:\Users\Jonathan\Desktop\Coding\pythonAutomation\emailNotification"
+cd "path-to-python-file"
 
 echo E-Mail Ueberpruefung Anmeldedaten (Uni Account):
 set/p "user=Benutzername: "
